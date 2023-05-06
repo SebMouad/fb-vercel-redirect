@@ -10,6 +10,7 @@ const Home: NextPage = () => {
         <title>Top Recettes</title>
         <meta name="description" content="Des recettes faciles pour des repas sains et savoureux ! Suivez-nous pour plus d'idées." />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="facebook-domain-verification" content="p2d7j6j4novrkkbbtcdp6oh3rf8fe6" />
       </Head>
 
       <main className={styles.main}>
